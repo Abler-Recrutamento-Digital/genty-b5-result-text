@@ -1,7 +1,7 @@
 {
   "name": "@alheimsins/b5-result-text",
   "description": "Text for big five results score",
-  "version": "3.0.7",
+  "version": "4.1.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -48,9 +48,9 @@
   },
   "homepage": "https://github.com/alheimsins/b5-result-text#readme",
   "devDependencies": {
-    "ava": "3.12.1",
+    "ava": "3.13.0",
     "coveralls": "3.1.0",
-    "husky": "4.2.5",
+    "husky": "4.3.0",
     "nyc": "15.1.0",
     "standard": "14.3.4"
   },
